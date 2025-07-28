@@ -7,6 +7,3 @@ A bit about me:
 - Sports fanatic: basketball, golf, soccer, volleyball, the list goes on ...
 
 Seeking internships for Winter 2026!!
-
-## Socials 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ishanchenthooran/]) 
