@@ -2,9 +2,7 @@
 
 A bit about me:
 - My name's Ishan and I'm a **Systems Design Engineering Student** at the **University of Waterloo** ✍🏼
-- Recently finished term as a Data Engineering Intern at TD Bank focusing on platform migrations 💻
-- Passionate about data driven solutions and broadening knowledge in the fields of data science and ML📈: working on an AI golf coach and a tool to boost revenue for SaaS companies 
+- Currently working as a Software Engineering Intern at tech consulting firm Electric Mind 💻
+- Strong interest in production engineering and infrastructure, focusing on building reliable, scalable systems ⚙️: working on an AI golf coach prioritizing robustness, performance, and real-world usage
 - Sports fanatic 🏀🏌🏼‍♂️⚽︎: basketball, golf, soccer, volleyball, the list goes on ...
 - Feel free to contact me at ishanchenthooran@gmail.com!
-
-Seeking internships for Winter 2026!!
